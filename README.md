@@ -1,4 +1,4 @@
-#  Olá, meu nome é Ataide-JS, Sou iniciante em programação e estou fazendo faculdade de ADS
+# Olá, meu nome é Ataide-JS, Sou iniciante em programação e estou fazendo faculdade de ADS
 <div style="display: inline_block"><br>
   <img align="center" alt="ataide-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
